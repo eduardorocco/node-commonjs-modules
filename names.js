@@ -7,3 +7,4 @@ function names(firstname, lastname){
 }
 
 // console.log(names('Paolo','Rossi'));
+module.exports = names
