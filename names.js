@@ -1,7 +1,7 @@
-function names(firstname, lastname){
+function names(firstName, lastName){
     return {
-        firstname,
-        lastname
+        firstName,
+        lastName
     }
 
 }
